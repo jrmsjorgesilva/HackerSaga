@@ -1,9 +1,10 @@
 import React from 'react'
+import GameContent from './Components/GameContent';
 
 function App() {
   return (
     <div className="App">
-      reaja
+      <GameContent />
     </div>
   );
 }
